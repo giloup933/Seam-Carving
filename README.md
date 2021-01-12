@@ -7,13 +7,6 @@ A Cat after Seam Carving:<br>
 ![Cat1](formed-images/cat-abs.png?raw=true "Cat1")
 <br><br>
 
-KW before Seam Carving:<br>
-![Kinkauji0](images/keywest.png?raw=true "Kinkauji0")
-<br><br>
-KW after Seam Carving:<br>
-![Kinkauji1](formed-images/keywest-y.png?raw=true "Kinkauji1")
-<br><br>
-
 A Boat before Seam Carving:<br>
 ![Boat0](images/boat.png?raw=true "Boat0")
 <br><br>
