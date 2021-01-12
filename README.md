@@ -27,4 +27,5 @@ Kinkauji before Seam Carving:<br>
 <br><br>
 Kinkauji after Seam Carving:<br>
 ![Kinkauji1](formed-images/kinkakuji-x.jpg?raw=true "Kinkauji1")
-<br><br>
+<br><br>and
+![Kinkauji2](formed-images/kinkakuji-y.jpg?raw=true "Kinkauji2")
